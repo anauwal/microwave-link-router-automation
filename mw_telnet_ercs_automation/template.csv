@@ -1,0 +1,8 @@
+Network Element,NE State,NE Type,IPv4
+NE001,Critical,TypeA,192.168.1.1
+NE002,Warning,TypeB,192.168.1.2
+NE003,Critical,TypeC,192.168.1.3
+NE004,Comms Fail,TypeA,192.168.1.4
+NE005,Critical,TypeB,192.168.1.5
+NE006,Critical,TypeC,192.168.1.6
+NE007,Comms Fail,TypeA,192.168.1.
